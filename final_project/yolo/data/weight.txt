@@ -1,0 +1,5 @@
+
+
+Download yolo model weight from link below:
+
+https://drive.google.com/file/d/1yT2-zmNFymMgY42Z72LIuqMaiWvYEUQR/view?usp=sharing
