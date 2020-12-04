@@ -46,6 +46,26 @@
   <img width="400" height="250" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW03/result_images/Screen%20Shot%202020-12-04%20at%203.34.37%20PM.png">
 </p>
 
+2.4 Remove all the ground planes points in the 3D voxel space points
+<p align="center">
+  <img width="400" height="250" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW03/result_images/Screen%20Shot%202020-12-04%20at%203.34.50%20PM.png">
+</p>
+
+2.5 Off ground points with ground plane points
+<p align="center">
+  <img width="400" height="250" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW03/result_images/Screen%20Shot%202020-12-04%20at%203.34.58%20PM.png">
+</p>
+
+2.6 Top view projection of point cloud data
+<p align="center">
+  <img width="400" height="250" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW03/result_images/Screen%20Shot%202020-12-04%20at%203.35.18%20PM.png">
+</p>
+
+2.7 Front view image with color based on depth i.e. distance from ego vehicle
+<p align="center">
+  <img width="800" height="180" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW03/result_images/Screen%20Shot%202020-12-04%20at%203.35.38%20PM.png">
+</p>
+
 
 
 
