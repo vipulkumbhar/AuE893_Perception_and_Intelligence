@@ -28,3 +28,24 @@
 <p align="center">
   <img width="400" height="250" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW02/Result_images/Screen%20Shot%202020-12-04%20at%203.32.37%20PM.png">
 </p>
+
+### 2) LiDAR data processing
+
+2.1 Point cloud view
+<p align="center">
+  <img width="400" height="250" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW03/result_images/Screen%20Shot%202020-12-04%20at%203.34.00%20PM.png">
+</p>
+
+2.2 Voxel filter (or box grid filter) to downsample all the 3D point cloud points to the 3D voxel space points
+<p align="center">
+  <img width="400" height="250" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW03/result_images/Screen%20Shot%202020-12-04%20at%203.34.26%20PM.png">
+</p>
+
+2.3 RANSAC algorithm to the 3D voxel space points to find a ground plane model
+<p align="center">
+  <img width="400" height="250" src="https://github.com/vipulkumbhar/AuE893_Perception_and_Intelligence/blob/master/HW03/result_images/Screen%20Shot%202020-12-04%20at%203.34.37%20PM.png">
+</p>
+
+
+
+
