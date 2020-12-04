@@ -1,6 +1,6 @@
 # AuE8930_Perception_and_Intelligence
 
-## Intereseting problems from Homework
+## Intereseting problems from homework
 
 ### 1) Design and implement the approaches to find all park space frames with the four vertex points of each frame.( without deep learning algorithms) 
 
